@@ -1,0 +1,4 @@
+rootProject.name = 'multi_module_fast'
+
+include 'module-api'
+include 'module-common'
